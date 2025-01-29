@@ -1,4 +1,5 @@
 # Netflix-Clone-Project-HTML-CSS
+
 Overview
 
 The Netflix Clone project is a front-end web application that replicates the UI/UX of Netflix using HTML and CSS. This project aims to provide a responsive and visually appealing interface similar to the popular streaming platform.
